@@ -1,2 +1,3 @@
 *.tar.gz
+preprocess*
 cifar-10-batches-py/*
